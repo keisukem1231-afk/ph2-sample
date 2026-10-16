@@ -23,7 +23,7 @@ CREATE TABLE choices (
 INSERT INTO questions (content, image, supplement) VALUES
 ('日本のIT人材が2030年には最大どれくらい不足すると言われているでしょうか？', 'img-quiz01.png', '経済産業省 2019年3月 － IT 人材需給に関する調査'),
 ('既存業界のビジネスと、先進的なテクノロジーを結びつけて生まれた、新しいビジネスのことをなんと言うでしょう？', 'img-quiz02.png', 'なし'),
-('IoTとは何の略でしょう？', 'img-quiz03.png', 'なし'),
+('IoTとはいったい何の略でしょう？', 'img-quiz03.png', 'なし'),
 ('サイバー空間とフィジカル空間を…なんと言うでしょう？', 'img-quiz04.png', 'Society5.0 - 科学技術政策 - 内閣府'),
 ('イギリスのコンピューター科学者である…なんと言うでしょう？', 'img-quiz05.png', 'なし'),
 ('先進テクノロジー活用企業と出遅れた企業の収益性の差は…でしょうか？', 'img-quiz06.png', 'Accenture Technology Vision 2021');
